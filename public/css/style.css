@@ -675,3 +675,20 @@ li {
     padding: 20px 0;
   }
 }
+#output .output-list ul {
+  display: flex;
+  
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  width: 500px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+#output .output-list li {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin: 10px;
+  height: 80px;
+  
+}
