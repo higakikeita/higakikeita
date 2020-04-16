@@ -2,8 +2,8 @@
 https://myprofile-7377b.web.app/
 
 ## 制作の工夫
-伝えたいことが見やすいようにシンプルデザインにしています。
-画面遷移することなく１ページで完結静的ページで構築しました。
+伝えたいことが見やすいようにシンプルデザインにしています。<br>
+画面遷移することなく１ページで完結静的ページで構築しました。<br>
 レスポンシブ対応です。
 
 ## 機能
@@ -19,6 +19,7 @@ https://myprofile-7377b.web.app/
 [![Image from Gyazo](https://i.gyazo.com/4aded091e1885297a649294b0c19645e.gif)](https://gyazo.com/4aded091e1885297a649294b0c19645e)
 
 
+
 ### Coding with HTML 5 x CSS 3 x javascript
 <p align ="center">
 
@@ -28,8 +29,14 @@ https://myprofile-7377b.web.app/
 
 </p>
 
+
 ### Hosting with Firebase
 <p align ="center">
 
 <img src="https://user-images.githubusercontent.com/41051390/79428555-476efc80-8001-11ea-9a16-73b649bd3b45.png" height=60% width=60% >
 
+## Auther
+
+[Qiita](https://qiita.com/keitah)<br>
+[Twiiter](https://twitter.com/keitah0322)<br>
+[Lapras](https://lapras.com/person)
